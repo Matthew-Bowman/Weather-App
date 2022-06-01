@@ -41,5 +41,6 @@ body {
     text-align: center;
     margin: 16px 0;
     padding: 12px 0;
-    background-color: rgba(11, 29, 43, 0.25)
+    background-color: rgba(11, 29, 43, 0.25);
+    color: rgba(220, 220, 220);
 }
