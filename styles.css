@@ -1,4 +1,10 @@
 body {
+    /* Flexbox */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    /* Background Image */
     background: url("./background.jpg");
     background-attachment: fixed;
     background-position: center;
