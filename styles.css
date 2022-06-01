@@ -15,6 +15,9 @@ body {
     /* Positioning */
     margin: 0;
     height: 100vh;
+
+    /* Typography */
+    font-family: sans-serif;
 }
 
 .main {
