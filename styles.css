@@ -11,4 +11,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 500px;
+
+    /* Positioning */
+    margin: 0;
 }
