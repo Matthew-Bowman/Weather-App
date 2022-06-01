@@ -21,4 +21,11 @@ body {
     /* Dimensions */
     width: 500px;
     height: 500px;
+
+    /* Frosted Glass Effect */
+    border-radius: 8px;
+    backdrop-filter: blur(2.5px);
+    background-color: rgba(64, 96, 111, 0.25);
+    box-shadow: 0 1px 12px rgba(0, 0, 0, 0.25);
+    border: 1px solid rgba(64, 96, 111, 0.05);
 }
